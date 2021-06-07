@@ -1,5 +1,6 @@
 # UNet-for-Image-Denoising
 Established a UNet model to deal with image denoising problem
+<<<<<<< HEAD
 
 ## Resource
 
@@ -37,4 +38,3 @@ Established a UNet model to deal with image denoising problem
   ![250epoch光影](figs/250epoch光影.jpg)
 
 - Calculate the PSNR and MISR of the output images.
-- Make more credible denoised images.
